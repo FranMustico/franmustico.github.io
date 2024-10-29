@@ -316,9 +316,11 @@ section {
     margin: auto o;
 }
 
+
 /* Expereince Section */
 
 #experience {
+    margin-top: 4.5rem;
     position: relative; 
 }
 
@@ -450,4 +452,8 @@ footer {
 
 footer p{
     text-align: center;
+}
+
+.text-container p{
+    margin-bottom: 2rem; 
 }
