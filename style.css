@@ -457,3 +457,7 @@ footer p{
 .text-container p{
     margin-bottom: 2rem; 
 }
+
+.ProjectLanguageType {
+    margin : 1rem auto; 
+}
